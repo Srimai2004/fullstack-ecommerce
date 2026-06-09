@@ -1,13 +1,16 @@
-# Full Stack E-Commerce Application
+# ShopSphere - Full Stack E-Commerce Application
 
-Complete React + Spring Boot + MySQL e-commerce application with JWT authentication, role-based access, cart, checkout, order history, and admin product management.
+Developed by: Srimai Indla
+
+A complete full-stack e-commerce platform built using React, Spring Boot, MySQL, Spring Security, and JWT Authentication. The application provides user authentication, product management, shopping cart functionality, order processing, and role-based access control.
 
 ## Tech Stack
 
-- Frontend: React, HTML, CSS, JavaScript, Vite
-- Backend: Spring Boot, Spring Security, Spring Data JPA, REST APIs
-- Database: MySQL
-- Authentication: JWT
+* Frontend: React, HTML, CSS, JavaScript, Vite
+* Backend: Spring Boot, Spring Security, Spring Data JPA, REST APIs
+* Database: MySQL
+* Authentication: JWT
+
 
 ## Project Structure
 
@@ -40,10 +43,6 @@ mysql -u root -p ecommerce_db < database/schema.sql
 
 The backend also seeds default users and products from `backend/src/main/resources/data.sql`.
 
-Default accounts:
-
-- Admin: `admin@example.com` / `Admin@123`
-- User: `user@example.com` / `User@123`
 
 ## Backend Setup
 
