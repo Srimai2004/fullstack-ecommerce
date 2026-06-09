@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-label="Product placeholder">
+  <rect width="640" height="420" fill="#edf2f7"/>
+  <rect x="170" y="90" width="300" height="240" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="8"/>
+  <circle cx="250" cy="175" r="34" fill="#94a3b8"/>
+  <path d="M190 300l100-86 62 54 42-36 56 68H190z" fill="#64748b"/>
+</svg>
+
